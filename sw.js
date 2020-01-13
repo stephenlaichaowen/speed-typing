@@ -5,7 +5,7 @@ const version = '1.0'
 const appAssets = [
   'index.html',  
   'script.js',
-  'styles.cssSp'
+  'styles.css'
 ]
 
 // SW Install
